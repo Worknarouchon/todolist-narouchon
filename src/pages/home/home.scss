@@ -1,3 +1,18 @@
 page-home {
-
+    .content{text-align: center;}
+    ion-content {
+        background: #faed3e !important;
+    }
+    ion-item {
+        background: rgb(138, 80, 3) !important;
+    }
+    h2 {
+        color: rgb(245, 199, 199);
+    }
+    h1 {
+        color: rgb(3, 0, 0);
+    }
+    h3 {
+        color: rgb(255, 255, 255);
+    }
 }
